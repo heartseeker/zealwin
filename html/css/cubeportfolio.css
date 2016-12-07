@@ -831,7 +831,7 @@
   cursor: default; }
 
 .cbp-l-filters-buttonCenter .cbp-filter-counter {
-  background-color: #68ABBC;
+  background-color: #e26610;
   border-radius: 3px;
   color: #fff;
   font: 400 11px/18px "Roboto", sans-serif;
@@ -859,7 +859,7 @@
   height: 0;
   border-left: 4px solid transparent;
   border-right: 4px solid transparent;
-  border-top: 4px solid #68ABBC;
+  border-top: 4px solid #e26610;
   display: none; }
 
 .cbp-l-filters-buttonCenter .cbp-filter-item:hover .cbp-filter-counter:after {

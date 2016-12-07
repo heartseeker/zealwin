@@ -276,7 +276,7 @@ a:focus {
     font-family: 'PT Sans', sans-serif;
     line-height: 46px;
     border-bottom: 2px solid rgba(0, 0, 0, 0.3);
-    background: #078f8a;
+    background: #E26610;
     letter-spacing: 0.5px;
     position: relative;
     z-index: 1;
@@ -289,11 +289,11 @@ a:focus {
 
 .btn-white {
     background: #fff;
-    color: #078f8a !important;
+    color: #E26610 !important;
 }
 
 .btn-white:hover {
-    background: #078f8a;
+    background: #E26610;
     color: #fff !important;
 }
 
@@ -977,12 +977,12 @@ header .quotes a:hover {
 }
 
 .portfolio-filter .cbp-filter-item:hover {
-    background: #444444;
+    background: #e26610;
     color: #fff;
 }
 
 .portfolio-filter .active {
-    background: #444444;
+    background: #e26610;
     color: #fff;
 }
 
@@ -1119,7 +1119,7 @@ header .quotes a:hover {
     height: 56px;
     width: 56px;
     border-radius: 50%;
-    border: 4px solid #9cdedc;
+    border: 4px solid #fcaf83;
     text-align: center;
     line-height: 42px;
     font-weight: bold;
@@ -1830,7 +1830,7 @@ header .quotes a:hover {
 
 .blog .post-info hr {
     margin: 10px 0;
-    background: #444444;
+    background: #e26610;
 }
 
 .blog .post-in {
@@ -1870,7 +1870,7 @@ header .quotes a:hover {
     margin-top: 20px;
     margin-right: 10px;
     font-weight: bold;
-    color: #444444;
+    color: #e26610;
     font-size: 11px;
 }
 
@@ -2088,11 +2088,12 @@ header .quotes a:hover {
 }
 
 .sub-footer .logo-foot {
-    background: #e26610;
+    /*background: #e26610;*/
     display: inline-block;
     width: 100%;
     text-align: center;
-    padding: 40px;
+    /*padding: 40px;*/
+    padding: 5px
 }
 
 .sub-footer p {
